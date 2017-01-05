@@ -30,11 +30,11 @@ vagrant box add --name node-mysql "https://s3.amazonaws.com/spark-school/node-my
 
 Now our VM got connected to turn on the Vagrant use command. 
 
-# Terminal on host computer
+# Terminal on PowerShell
 vagrant up
 If your Vagrantfile is correct, vagrant should start your VM and tell you everything worked successfully.
 
-# Terminal on host computer
+# Terminal on PowerShell
 vagrant ssh-config
 Vagrant will take care the our user authentication for us. you will be getting hostname and port number using this open the Putty.
 
