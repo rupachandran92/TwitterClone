@@ -98,18 +98,19 @@ app.post('/tweets/:id([0-9]+)/update', authUser, function(req, res) {
   var body = req.body.body;
   var isDelete = req.body.delete_button;
   var queryCallback = function(err) {
+    
     if(err) {
       console.log(err);
     }
-
     res.redirect('/');
   };
 
-  if(isDelete) {
+  	if(isDelete) {
     // Our delete code goes here.
     connection.query(deleteQuery, [id], queryCallback);
-  } else {
-    // The update button was pressed.
-    connection.query(updateQuery, [body, handle, id], queryCallback);
-  }
+  	} 
+  		else {
+    	// The update button was pressed.
+    	connection.query(updateQuery, [body, handle, id], queryCallback);
+  	}
 });
