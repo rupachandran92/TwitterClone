@@ -1,6 +1,3 @@
-Home Page
-![alt text](images/homePage.png "Home Page")
-
 In this Project, you will learn how to:
 •	Code a web server in JavaScript using Node.js
 •	Build and style web pages with HTML and CSS
