@@ -1,5 +1,5 @@
 HomePage:
-![Alt text](/relative/path/to/homePage.png?raw=true "Optional Title")
+![Alt text](/images/homePage.png?raw=true "Optional Title")
 
 In this Project, you will learn how to:
 •	Code a web server in JavaScript using Node.js
