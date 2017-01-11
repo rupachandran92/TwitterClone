@@ -1,4 +1,24 @@
-In this Project, you will learn how to:
+TwitterClone is interactive webpage which we can tweet, edit, update and delete. Attached few screenshots of the webpage. 
+
+For detailed screenshots: Refer to the TwitterClone.Pdf
+
+HomePage:
+
+![Alt text](/images/homePage.png?raw=true "HomePage")
+
+EditTweet:
+
+![Alt text](/images/EditPage.png?raw=true "HomePage")
+
+DeleteTweet:
+
+![Alt text](/images/Delete.png?raw=true "HomePage")
+
+UpdateTweet:
+
+![Alt text](/images/UpdatePage.png?raw=true "HomePage")
+
+We will learn how to:
 •	Code a web server in JavaScript using Node.js
 •	Build and style web pages with HTML and CSS
 •	Read and write to a database using SQL
@@ -44,4 +64,5 @@ You are now logged into your VM and are ready to get started. All terminal comma
 Every command will be running in the VM Terminal. Install Node.js, Express etc..
 
 Copy all the files and save it in the same folder and test it in the webpage like chrome.
+
 
