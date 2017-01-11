@@ -4,7 +4,7 @@ For detailed screenshots: Refer to the TwitterClone.Pdf
 
 HomePage:
 
-![Alt text](/images/homePage.png?raw=true "HomePage")
+![Alt text](/images/HomePage.png?raw=true "HomePage")
 
 EditTweet:
 
