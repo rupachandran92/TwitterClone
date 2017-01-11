@@ -1,6 +1,6 @@
-TwitterClone is interactive webpage which we can tweet, edit, update and delete. Attached few screenshots of the webpage. 
+TwitterClone is interactive webpage which we can tweet, edit, update and delete. I attached few screenshots of my webpage. 
 
-For detailed screenshots: Refer to the TwitterClone.Pdf
+For detailed screenshots: https://github.com/rupachandran92/TwitterClone/blob/master/Twitter%20Clone.pdf
 
 HomePage:
 
