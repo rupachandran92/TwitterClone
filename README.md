@@ -50,19 +50,20 @@ vagrant box add --name node-mysql "https://s3.amazonaws.com/spark-school/node-my
 
 Now our VM got connected to turn on the Vagrant use command. 
 
-# Terminal on PowerShell
-vagrant up
+--> vagrant up
 If your Vagrantfile is correct, vagrant should start your VM and tell you everything worked successfully.
 
-# Terminal on PowerShell
-vagrant ssh-config
+--> vagrant ssh-config
 Vagrant will take care the our user authentication for us. you will be getting hostname and port number using this open the Putty.
 
-
-You are now logged into your VM and are ready to get started. All terminal commands from here on out will assume you are logged into your VM. 
-
+You are now logged into your VM and are ready to get started. 
+# Terminal on VM
+All terminal commands from here on out will assume you are logged into your VM. 
 Every command will be running in the VM Terminal. Install Node.js, Express etc..
 
-Copy all the files and save it in the same folder and test it in the webpage like chrome.
+Copy all the files and save it in the same folder and test it in the chrome.
+
+Author: Shane Burkhart
+Reference Link: https://trysparkschool.com/
 
 
