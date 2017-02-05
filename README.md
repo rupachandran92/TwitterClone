@@ -18,7 +18,7 @@ UpdateTweet:
 
 ![Alt text](/images/UpdatePage.png?raw=true "HomePage")
 
-We will learn how to:
+learn how to:
 •	Code a web server in JavaScript using Node.js
 •	Build and style web pages with HTML and CSS
 •	Read and write to a database using SQL
